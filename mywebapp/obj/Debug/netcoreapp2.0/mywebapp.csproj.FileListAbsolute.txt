@@ -1,0 +1,10 @@
+C:\Dev\MVA-courses\Core-beginner\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.deps.json
+C:\Dev\MVA-courses\Core-beginner\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.runtimeconfig.json
+C:\Dev\MVA-courses\Core-beginner\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.runtimeconfig.dev.json
+C:\Dev\MVA-courses\Core-beginner\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.dll
+C:\Dev\MVA-courses\Core-beginner\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.pdb
+C:\Dev\MVA-courses\Core-beginner\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.csproj.CoreCompileInputs.cache
+C:\Dev\MVA-courses\Core-beginner\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.AssemblyInfoInputs.cache
+C:\Dev\MVA-courses\Core-beginner\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.AssemblyInfo.cs
+C:\Dev\MVA-courses\Core-beginner\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.dll
+C:\Dev\MVA-courses\Core-beginner\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.pdb

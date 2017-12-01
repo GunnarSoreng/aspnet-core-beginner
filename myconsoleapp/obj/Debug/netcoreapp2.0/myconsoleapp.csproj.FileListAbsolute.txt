@@ -1,0 +1,10 @@
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.deps.json
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.json
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.dev.json
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.pdb
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.csproj.CoreCompileInputs.cache
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfoInputs.cache
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfo.cs
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Dev\MVA-courses\Core-beginner\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.pdb
